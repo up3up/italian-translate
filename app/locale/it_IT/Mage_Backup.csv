@@ -50,6 +50,6 @@
 "Time","Ora"
 "Type","Tipo"
 "Unable to create backup. Please, try again later.","Impossibile creare il backup. Riprovare più tardi."
-"Unable to save the cron expression.","Impossibile salvare l\'espressione di cron."
+"Unable to save the cron expression.","Impossibile salvare l'espressione di cron."
 "Wrong order of creation for new backup.","Ordine errato per la creazione del nuovo backup."
 "You do not have sufficient permissions to enable Maintenance Mode during this operation.","Non disponi dei permessi necessari per abilitare la modalità manutenzione durante questa operazione."

@@ -152,7 +152,7 @@
 "Warning tax discount configuration might result in different discounts than a customer might expect","Attenzione configurazione tassa sconto potrebbe comportare diversi sconti che un cliente si aspetta"
 "When catalog price includes tax, enable this setting will fix the price no matter what the customer's tax rate is.","Quando il prezzo del catalogo include le tasse, abilita questa impostazione fissando il prezzo a prescindere dall'aliquota fiscale del cliente."
 "Whether catalog prices entered by admin include tax.","Indica se i prezzi sono comprensivi di tasse o meno"
-"Whether shipping amounts entered by admin or obtained from gateways include tax.","Se i costi di spedizione introdotto dall\'amministratore sono ottenenuti dal gateways includono le tasse."
+"Whether shipping amounts entered by admin or obtained from gateways include tax.","Se i costi di spedizione introdotto dall'amministratore sono ottenenuti dal gateways includono le tasse."
 "Yes","Sì"
 "You cannot delete this tax class as it is used for %d customer groups.","Non puoi cancellare questa classe fiscale perché p utilizzata per i gruppi cliente %d."
 "You cannot delete this tax class as it is used for %d products.","Non puoi cancellare questa classe fiscale perché è utilizzata per i prodotti %d."
