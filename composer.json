@@ -1,8 +1,7 @@
 {
-    "name":"vmasciotta/magento_italian_locale",
+    "name":"vmasciotta/magento-italian-locale",
     "type":"magento-module",
     "license":"OSL-3.0",
-    "homepage":"http://www.valeriomasciotta.it",
     "description":"Italian translation for Magento 1.x",
     "authors":[
         {
