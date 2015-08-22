@@ -6,4 +6,4 @@ Questo è un repository che uso per i miei progetti, liberamente ispirato dalla 
 
 A queste traduzioni apporto normalmente bugfix e piccole migliorie.
 
-**Questa traduzione risolve l'errore [#7941](http://www.magentocommerce.com/bug-tracking/issue/index/id/934) **
+*Questa traduzione risolve l'errore [#7941](http://www.magentocommerce.com/bug-tracking/issue/index/id/934)*
